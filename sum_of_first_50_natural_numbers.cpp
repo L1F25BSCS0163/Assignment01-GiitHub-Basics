@@ -1,4 +1,9 @@
-
+/*
+Program: Sum of First 50 Natural Numbers
+Name: Muhammad Anss
+Reg No: L1F25BSCS0163
+Assignment: 01 - Getting Started with GitHub
+*/
 #include <iostream>
 using namespace std;
 
